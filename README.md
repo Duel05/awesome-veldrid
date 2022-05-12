@@ -17,8 +17,7 @@ A curated list of awesome projects that use [Veldrid, a low-level graphics libra
 - [Veldrid: Implementation Overview](https://veldrid.dev/articles/implementation/overview.html) - The official implementation overview for Veldrid.
 
 ## Forks
-- [TechPizza](https://github.com/TechPizzaDev/veldrid) - [TODO]
-- [Doom2fan](https://github.com/Doom2fan/veldrid) - [TODO]
+- [TechPizza](https://github.com/TechPizzaDev/veldrid) - A fork of Veldrid that supports modernized SPIR-V transpilation, more error validation, API changes for better performance and clarity, and newer graphics features.
 
 ## Utilities
 - [Avalonia.Veldrid](https://github.com/gleblebedev/Avalonia.Veldrid) - Integration of AvaloniaUI and Veldrid.
