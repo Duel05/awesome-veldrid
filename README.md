@@ -61,3 +61,7 @@ A curated list of awesome projects that use [Veldrid, a low-level graphics libra
 ## Legacy
 - [VeldridNSViewExample](https://github.com/mellinoe/VeldridNSViewExample) - A basic example showing how to use Veldrid to render into an NSView.
 - [Veldrid.TinyDemo](https://github.com/mellinoe/Veldrid.TinyDemo) - A minimal demo project using Veldrid
+
+# License
+![](https://camo.githubusercontent.com/9e918e1e7cd28a73246cf1c8d2c9903da3e487a65931c823a2391afe4b4a0d04/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f702f7a65726f2f312e302f38387833312e706e67)<br>
+Awesome Veldrid is licensed under the Creative Commons Zero v1.0 Universal license.
