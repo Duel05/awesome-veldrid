@@ -1,4 +1,4 @@
-# awesome-veldrid [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Veldrid [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome projects that use [Veldrid, a low-level graphics library for .NET](https://veldrid.dev/). This has mainly been created for the purpose of making it easier for beginners to learn through the code of others, since Veldrid is not the best in terms of documentation and tutorials.
 
