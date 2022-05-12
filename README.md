@@ -13,9 +13,9 @@ A curated list of awesome projects that use [Veldrid, a low-level graphics libra
 ## Learning
 - [Veldrid: Documentation](https://veldrid.dev/api/index.html) - The official Veldrid documentation.
 - [Veldrid: Getting Started](https://veldrid.dev/articles/getting-started/intro.html) - The official Getting Started guide for Veldrid.
-- [Veldrid: Samples](https://github.com/mellinoe/veldrid-samples) - The official sample projects for Veldrid.
-- [Veldrid: Xamarin Samples](https://github.com/slango0513/VeldridFormsSamples) - The unofficial sample projects for Veldrid.
 - [Veldrid: Implementation Overview](https://veldrid.dev/articles/implementation/overview.html) - The official implementation overview for Veldrid.
+- [veldrid-samples](https://github.com/mellinoe/veldrid-samples) - The official sample projects for Veldrid.
+- [VeldridFormsSamples](https://github.com/slango0513/VeldridFormsSamples) - The unofficial sample projects for Veldrid.
 
 ## Forks
 - [TechPizza](https://github.com/TechPizzaDev/veldrid) - A fork of Veldrid that supports modernized SPIR-V transpilation, improved error validation, API changes for better performance and clarity, and newer graphics features.
