@@ -45,6 +45,7 @@ A curated list of awesome projects that use [Veldrid, a low-level graphics libra
 
 ## Games
 - [CrazyCore](https://github.com/mellinoe/CrazyCore) - A simple 3D video game.
+- [MinecraftClone-Core](https://github.com/Redhacker1/MinecraftClone-Core) - Minecraft clone running on standalone engine.
 - [ualbion](https://github.com/csinkers/ualbion) - A remake of the 1995 RPG Albion.
 - [UtilityGrid](https://github.com/chances/UtilityGrid) - A game that tasks the player to build and manage a city's utilities infrastructure.
 - [VoidTraveller](https://github.com/generatives/VoidTraveler) - Build your own spaceship space game.
