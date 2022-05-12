@@ -34,8 +34,10 @@ A curated list of awesome projects that use [Veldrid, a low-level graphics libra
 
 ## Engines
 - [Element Engine](https://github.com/pandepic/ElementEngine) - A simple C#/Veldrid based 2D game engine.
+- [Furball.Vixie](https://github.com/Furball-Engine/Furball.Vixie) - A Multi API Renderer specifically designed to be integrated into Furball, aswell as providing good Hardware support.
 - [ge](https://github.com/mellinoe/ge) - A general-purpose 3D game engine with editor.
 - [KanMach](https://github.com/TheCodeWizard27/KanMach) - A simple C# 3d Engine based on veldrid.
+- [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - a free, open source re-implementation of SAGE, the 3D real time strategy engine used in Command & Conquer: Generals.
 - [OpenWheels](https://github.com/Jjagg/OpenWheels) - A set of platform- and renderer-agnostic libraries for game development.
 - [teraflop](https://github.com/chances/teraflop) - C# ECS game engine on a Veldrid foundation.
 - [Vx](https://github.com/mellinoe/Vx) - An easy-to-use immediate mode 3D renderer.
