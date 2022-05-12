@@ -15,7 +15,6 @@ A curated list of awesome projects that use [Veldrid, a low-level graphics libra
 - [Veldrid: Getting Started](https://veldrid.dev/articles/getting-started/intro.html) - The official Getting Started guide for Veldrid.
 - [Veldrid: Samples](https://github.com/mellinoe/veldrid-samples) - The official sample projects for Veldrid.
 - [Veldrid: Implementation Overview](https://veldrid.dev/articles/implementation/overview.html) - The official implementation overview for Veldrid.
-- [Veldrid: Tiny Demo](https://github.com/mellinoe/Veldrid.TinyDemo) - A minimal demo project using Veldrid. **[DEPRECATED]**
 
 ## Forks
 - [TechPizza](https://github.com/TechPizzaDev/veldrid) - [TODO]
